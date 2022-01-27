@@ -1,0 +1,3 @@
+Language,Question,Answer,Answer1,Answer2,Answer3,Verification,Comment,By
+A,B,C,D,E,F,G,H,I
+CSS,"Is this a valid selector? [alt=""FirstQuestion""]",TRUE,FALSE,,,https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements,First question added to the question bank.,Cristian Gabriel Mazzulla
